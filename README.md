@@ -42,18 +42,11 @@ I'm currently a full-time computer engineering student and currently mediocre bu
 [MIT](LICENSE)
 
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliudistic&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eliudistic&hide_border=true&no-bg=true&no-frame=true&layout=compact&theme=transparent&hide=html,css"/>
-</p>
-<p align="center">
   <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=eliudistic&hide_border=true&theme=transparent" /> 
 </p>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=eliudistic&no-bg=true&no-frame=true&row=2&column=3">
-</div>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" alt="Random Dev Quote" />
