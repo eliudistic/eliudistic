@@ -4,7 +4,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=eliudistic&no-bg=true&no-frame=true&row=2&column=3">
 </div>
 
-[![GitHub Profile Trophies](https://github-profile-trophy.vercel.app/?username=eliudistic&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### About Me:
 I'm currently a full-time computer engineering student and currently mediocre but I intend to bridge the gap with time.
