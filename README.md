@@ -35,10 +35,6 @@ I'm currently a full-time computer engineering student and currently mediocre bu
 |----------|----------|----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Kali Linux" alt="Kali Linux" width="55" height="55"/> |
 
-### Tools I'm Learning for CTF's:
-| Metasploit | Wireshark | Burpsuite | Netcat | Nmap |
-|----------|----------|----------|----------|----------|
-| <img src="assets/meta.png" alt="Metasploit" width="85" height="55" /> | <img src="assets/Wireshark_icon.svg.png" alt="Wireshark" width="55" height="55" /> | <img src="assets/burp.svg" alt="Burpsuite" width="85" height="55" /> | <img src="assets/netcat_logo_shadow.svg" alt="Netcat" width="55" height="55" /> | <img src="assets/nmap-logo.svg" alt="Nmap" width="55" height="55" /> |
 
 <!--
 <div align="center">
