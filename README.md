@@ -37,7 +37,7 @@ I'm currently a full-time computer engineering student and currently mediocre bu
 ## License
 [MIT](LICENSE)
 
-![](https://github.com/eliudistic/eliudistic/blob/main/assets/github-snake.svg)
+![](https://github.com/eliudistic/eliudistic/blob/main/assets/github-eliudistic-contribution.svg)
 
 <p align="center">
   <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=eliudistic&hide_border=true&theme=transparent" /> 
