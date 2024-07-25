@@ -41,7 +41,6 @@ I'm currently a full-time computer engineering student and currently mediocre bu
 ## License
 [MIT](LICENSE)
 
-## Activity
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliudistic&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -55,13 +54,7 @@ I'm currently a full-time computer engineering student and currently mediocre bu
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=eliudistic&no-bg=true&no-frame=true&row=2&column=3">
 </div>
-<div align="center">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=eliudistic&theme=transparent" height="180em" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eliudistic&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eliudistic&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eliudistic&theme=transparent&utcOffset=5.30" height="180em" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eliudistic&theme=transparent" height="180em" />
-</div>
+
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" alt="Random Dev Quote" />
 </p>
