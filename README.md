@@ -37,13 +37,6 @@ I'm currently a full-time computer engineering student and currently mediocre bu
 
 ![](https://github.com/eliudistic/eliudistic/blob/main/assets/github-snake.svg)
 
-
-## License
-[MIT](LICENSE)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliudistic&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 <p align="center">
   <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=eliudistic&hide_border=true&theme=transparent" /> 
 </p>
@@ -51,5 +44,6 @@ I'm currently a full-time computer engineering student and currently mediocre bu
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" alt="Random Dev Quote" />
 </p>
-
+## License
+[MIT](LICENSE)
 ---
