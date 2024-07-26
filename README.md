@@ -9,8 +9,6 @@
 I'm currently a full-time computer engineering student and currently mediocre but I intend to bridge the gap with time.
 
 ### Working on: 🚀
-
-- Learning [GO]([https://github.com/eliudium/go_ilya_kruk](https://github.com/golang/go))
 - ai powered tutorial site
 - [commerce site](https://procedureoes.com/)
 - Various bots and scripts, with results showcased [here](https://github.com/eliudistic)
