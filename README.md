@@ -1,48 +1,66 @@
-# Hi there, I'm Eliudium! 👋
-
+<!-- Header -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=eliudistic&no-bg=true&no-frame=true&row=2&column=3">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile!;Computer+Engineering+Student;AI+Enthusiast;Blockchain+Developer;Continuous+Learner" alt="Typing SVG" />
 </div>
 
- <div align="center"> 
-  ### About Me:
-  I'm currently a full-time computer engineering student and currently mediocre but I intend to bridge the gap with time.
-  
-  ### Working on: 🚀
-  - ai powered tutorial site
-  - [commerce site](https://procedureoes.com/)
-  - Various bots and scripts, with results showcased [here](https://github.com/eliudistic)
-  
-  ### Languages I'm Learning:
-  | Python3 | C | JS | Solidity | GO |
-  |----------|----------|----------|-----|-----|
-  | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="GO" alt="GO" width="55" height="55"/> |
-  
-  ### Tools I'm Interested In:
-  | Conda | Jupyter | Spark | MySQL | Postgres | SQLite | Plotly | Matplotlib |
-  |----------|----------|----------|----------|----------|----------|----------|----------|
-  | <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Conda" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg" title="Spark" alt="Spark" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgres" alt="Postgres" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" title="Plotly" alt="Plotly" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="55" height="55"/> |
-  
-  ### Environments I'm Interested In:
-  | NodeJS | Git | Docker | Pytest | Swagger | Postman | VBox | HardHat |
-  |----------|----------|----------|----------|----------|----------|----------|----------|
-  | <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="Pytest" alt="Pytest" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original-wordmark.svg" title="Swagger" alt="Swagger" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" alt="Postman" width="55" height="55"/> | <img src="https://banner2.cleanpng.com/20190501/xvt/kisspng-computer-icons-virtualbox-portable-network-graphic-virtualbox-icon-of-line-style-available-in-svg-5cca247f73f9e3.6112721115567514874751.jpg" title="VBox" alt="VBox" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/hardhat/hardhat-original.svg" title="HardHat" alt="HardHat" width="55" height="55"/> |
-  
-  ### OS:
-  | Linux | Ubuntu | Kali |
-  |----------|----------|----------|
-  | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Kali Linux" alt="Kali Linux" width="55" height="55"/> |
-  ## License
-  [MIT](LICENSE)
-  
-  ![](https://github.com/eliudistic/eliudistic/blob/main/assets/github-eliudistic-contribution.svg)
+<!-- Trophy Stats -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=eliudistic&theme=onedark&no-bg=true&no-frame=true&row=2&column=4&margin-w=15&margin-h=15">
 </div>
+
+<br>
+
+<!-- About Section -->
+## 🧑💻 About Me
 <p align="center">
-  <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=eliudistic&hide_border=true&theme=transparent" /> 
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=eliudistic&show_icons=true&theme=vision-friendly-dark&hide_border=true" width="400"/>
+  
+  ```python
+class ComputerEngineer:
+    def __init__(self):
+        self.name = "Eliudium"
+        self.role = "Student & Developer"
+        self.focus = [
+            "AI/ML Applications",
+            "Web Development",
+            "Smart Contracts",
+            "Automation"
+        ]
+    
+    def learn(self):
+        while True:
+            self.knowledge += 1
+            self.experience += 1
+            
+    def build(self):
+        return "Innovative solutions to real-world problems"
+        
+if __name__ == '__main__':
+    me = ComputerEngineer()
 </p>
+🛠️ Technologies & Tools
+Languages
+<div align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" /> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /> </div>
+Development Stack
+<div align="center"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" /> </div>
+Current Projects
+Project	Description	Status
+🤖 AI Tutorial Platform	AI-powered learning platform	Progress
+🛒 ProcedureOES Commerce	Modern e-commerce solution	Live
+🤖 Automation Scripts	Various Python/JS automation tools	Active
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" alt="Random Dev Quote" />
-</p>
+📈 GitHub Analytics
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=eliudistic&theme=vision-friendly-dark&hide_border=true&background=0D1117" width="49%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliudistic&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117" width="41%"/> </div><div align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eliudistic&theme=github_dark" width="90%"/> </div>
+🎯 Goals for 2024
+Achieve 1000+ GitHub contributions
+
+Release first AI tutorial MVP
+
+Complete 3 major blockchain projects
+
+Master advanced data structures
 
 
+📬 Connect With Me
+<div align="center"> <a href="mailto:your.email@example.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/yourprofile"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://twitter.com/yourhandle"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> </a> </div>
+<div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" alt="Random Dev Quote" /> </div><p align="center"> <img src="https://komarev.com/ghpvc/?username=eliudistic&label=Profile+Views&color=blue&style=flat" alt="Profile views" /> </p> ```
