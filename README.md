@@ -4,7 +4,6 @@
   
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliudium/)
-  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/)
   
   ![Trophies](https://github-profile-trophy.vercel.app/?username=eliudistic&theme=gruvbox&no-bg=true&no-frame=true&row=2&column=4&margin-w=15&margin-h=15)
 
