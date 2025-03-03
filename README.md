@@ -82,15 +82,7 @@
 
 ---
 
-### 💡 **Latest Dev Insights**
 
-<!-- BLOG-POST-LIST:START -->
-- [How I Built My First AI Assistant](https://medium.com/)
-- [10 Terminal Tricks Every Developer Should Know](https://medium.com/)
-- [Blockchain Development: Getting Started Guide](https://medium.com/)
-<!-- BLOG-POST-LIST:END -->
-
----
 
 <div align="center">
   
